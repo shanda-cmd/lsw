@@ -1,1 +1,1 @@
-# lsw
+# lswGit is easy.
